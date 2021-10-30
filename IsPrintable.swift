@@ -1,0 +1,3 @@
+protocol IsPrintable {
+    func show()
+}
